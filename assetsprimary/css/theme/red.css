@@ -1,0 +1,41 @@
+#app .navbar-bg {
+	    background-color: rgb(240, 45, 61) !important;
+}
+
+#app li.active a {
+		background-color: rgb(240, 45, 61) !important;
+}
+
+#app .page-item.active .page-link {
+border-color: rgb(240, 45, 61) !important;
+}
+
+#app .btn-info, .btn-info.disabled {
+border-color: rgb(240, 45, 61) !important;
+background-color: rgb(240, 45, 61) !important;
+box-shadow: rgb(240, 45, 61) !important;
+}
+
+#app .btnlogin, .btn-primary {
+	background-color: rgb(240, 45, 61) !important;
+	border-color: rgb(240, 45, 61) !important;
+}
+
+#app .btn-primary, .btn-primary.disabled {
+border-color: rgb(240, 45, 61) !important;
+background-color: rgb(240, 45, 61) !important;
+box-shadow: rgb(240, 45, 61) !important;
+}
+
+#app .card.card-success {
+    border-top: 2px solid rgb(240, 45, 61);
+}
+
+#app .btn-outline-info {
+    color: rgb(240, 45, 61);
+    background-color: transparent;
+    background-image: none;
+    border-color: rgb(240, 45, 61);
+}
+
+

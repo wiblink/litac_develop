@@ -1,0 +1,9 @@
+/*Dark*/
+
+#app .main-sidebar {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+#app .main-sidebar .sidebar-brand a {
+    color: #ffffff !important;
+}

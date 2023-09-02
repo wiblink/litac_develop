@@ -1,0 +1,40 @@
+span.file {
+  display: block;
+  padding: 1px 0px;
+}
+span.file a[href$=".png"] {
+  background: url('icon/image.png') left center no-repeat;
+  padding-left: 20px;
+}
+span.file a[href$=".jpg"] {
+  background: url('icon/image.png') left center no-repeat;
+  padding-left: 20px;
+}
+span.file a[href$=".jpeg"] {
+  background: url('icon/image.png') left center no-repeat;
+  padding-left: 20px;
+}
+span.file a[href$=".pdf"] {
+  background: url('icon/pdf.gif') left center no-repeat;
+  padding-left: 20px;
+}
+span.file a[href$=".doc"] {
+  background: url('icon/microsoft-word.png') left center no-repeat;
+  padding-left: 20px;
+}
+span.file a[href$=".docx"] {
+  background: url('icon/microsoft-word.png') left center no-repeat;
+  padding-left: 20px;
+}
+span.file a[href$=".xls"] {
+  background: url('icon/microsoft-excel.png') left center no-repeat;
+  padding-left: 20px;
+}
+span.file a[href$=".xlsx"] {
+  background: url('icon/microsoft-excel.png') left center no-repeat;
+  padding-left: 20px;
+}
+span.file a[href$=".txt"] {
+  background: url('icon/txt-text.png') left center no-repeat;
+  padding-left: 20px;
+}

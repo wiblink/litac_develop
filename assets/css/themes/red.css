@@ -1,0 +1,30 @@
+
+.sidebar.sidebar-main {
+	border-right:1px solid #d2d6de;
+}
+.navbar-collapse {
+    background-color: #ef5350 !important;
+}
+.btnlogin, .btn-primary {
+	background-color: #ef5350 !important;
+	border-color: #ef5350 !important;
+}
+body .pace .pace-progress {
+	background-color: #ff1744 !important;
+}
+.navbar-header {
+	background-color: #ff1744 !important;
+	color:#ffffff !important;
+}
+
+body .border-slate-300 {
+	border-color: #ff1744 !important;
+}
+
+.dataTables_wrapper th, .form-group th {
+	   background-color: #ff1744  !important;
+	   color:#ffffff !important;
+  }
+ul.kuesioner-tab li.active a {
+	color: #ff1744 !important;
+}

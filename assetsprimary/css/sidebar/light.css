@@ -1,0 +1,9 @@
+/*Light*/
+
+#app .main-sidebar {
+    background-image: radial-gradient(circle, #d8edf0, #cae8ed, #bce4e9, #addfe6, #9edae3);
+}
+
+#app .main-sidebar .sidebar-brand a {
+    color: #555454 !important;
+}

@@ -1,0 +1,19 @@
+/*Dark*/
+body .sidebar {
+	background-color: #1a2226 !important;
+	color:#b8c7ce !important;
+}
+.navigation li a, .navigation .navigation-header, .navigation .navigation-header a, .sidebar:not(.sidebar-default) .media .text-muted {
+	color:#b8c7ce !important;
+}
+.navigation > li ul {
+	background-color: #1a2226 !important;
+}
+.navigation > li.active > a {
+	background-color: #2c3b41 !important;
+	color:#ffffff !important;
+}
+
+.navigation > li > ul li.active > a {
+	background-color: #2c3b41 !important;
+}

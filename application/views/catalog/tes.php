@@ -1,0 +1,1 @@
+You can<br><p align="center">center a line</p>and add a horizontal rulessss:<br><hr>

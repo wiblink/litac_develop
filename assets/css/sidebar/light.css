@@ -1,0 +1,7 @@
+body .sidebar {
+	background-color: #f9fafc !important;
+	color:#000000 !important;
+}
+.navigation li a, .navigation .navigation-header, .navigation .navigation-header a, .sidebar:not(.sidebar-default) .media .text-muted {
+	color:#000000 !important;
+}
